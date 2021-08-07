@@ -1,4 +1,5 @@
-# N3Plus1 debunked
+# N3Plus1 debunked  
+( simple POC https://cloned2k16.github.io/N3Plus1/ )  
 
 ## It's really funny to see mathematicians lose their sleep with such a trivial problem ..  
 as always,
